@@ -34,31 +34,6 @@ Most of my work revolves around:
 
 ---
 
-## 📌 Projects
-
-### 🔐 SaferNav
-AI-powered system for detecting phishing links and synthetic media  
-🏆 **1st Place @ Polihack v17 (Cybersecurity)**  
-
-→ Focus: security + real-world attack detection  
-
----
-
-### ⚡ ElectriGo
-Distributed system prototype for EV drivers  
-📉 Reduced PostgreSQL query latency by **40%**  
-
-→ Focus: backend performance & data design  
-
----
-
-### 📊 Anomaly Detection
-Isolation Forest + Autoencoder pipeline  
-🎯 **92% precision**  
-
-→ Focus: applied ML + data pipelines  
-
----
 
 ## 🏆 Achievements
 
