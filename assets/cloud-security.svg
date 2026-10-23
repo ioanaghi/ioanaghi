@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Ioana Ghinet — Cloud and Security</title><desc id="desc">A navy banner with a cloud, shield, and connected infrastructure nodes.</desc>
+<rect width="1200" height="300" rx="18" fill="#0b1220"/>
+<path d="M40 257H1160" stroke="#23334a"/>
+<text x="52" y="66" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#62d9ca">SOFTWARE ENGINEERING</text>
+<text x="48" y="133" font-family="Arial,sans-serif" font-size="49" font-weight="700" fill="#f1f5f9">Ioana Ghinet</text>
+<text x="51" y="182" font-family="Arial,sans-serif" font-size="29" fill="#b6c9de">Cloud infrastructure. Security mindset.</text>
+<text x="52" y="230" font-family="Arial,sans-serif" font-size="17" fill="#8da5be">Python / Java / AWS / Containers</text>
+<g fill="none" stroke="#38516e" stroke-width="2"><path d="M865 188V230H774M961 188V230H1055"/><rect x="744" y="214" width="60" height="32" rx="5"/><rect x="1025" y="214" width="60" height="32" rx="5"/></g>
+<path d="M839 176h151c30 0 45-21 45-44 0-26-20-45-45-45h-2c-13-33-39-48-69-48-40 0-71 26-76 62-25 0-42 16-42 37s16 38 38 38Z" fill="#11273a" stroke="#497895" stroke-width="2"/>
+<path d="M914 95l39 15v30c0 29-21 46-39 54-18-8-39-25-39-54v-30Z" fill="#123c40" stroke="#62d9ca" stroke-width="3"/>
+<path d="m896 143 12 12 25-29" fill="none" stroke="#9ef0dd" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="774" cy="230" r="4" fill="#62d9ca"/><circle cx="1055" cy="230" r="4" fill="#62d9ca"/>
+</svg>

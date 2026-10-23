@@ -1,36 +1,53 @@
-# Hi, I'm Ioana Ghinet
+![Ioana Ghinet — Cloud infrastructure. Security mindset.](assets/cloud-security.svg)
 
-### Software engineering · Cloud · Security
+<p align="center">
+  <a href="https://linkedin.com/in/ioanateodoraghinet">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ioanaghinet@yahoo.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ioanaghi?tab=repositories">Explore my work</a>
+</p>
 
-I build software across Python, Java, and the web, with a focus on cloud and security. My projects range from network-traffic classification to mobile applications and business websites.
+## Building toward secure cloud systems
 
-## Selected projects
+I'm Ioana, a software engineer focused on **cloud infrastructure, security, and dependable delivery**. I work across Python and Java, with an interest in how applications are deployed, how data moves between components, and where trust boundaries belong.
 
-- **[Anomaly Detection](https://github.com/ioanaghi/Anomaly-Detection)** — PCAP processing and machine learning experiments for security-oriented traffic classification, using scikit-learn, PyTorch, and TensorFlow.
-- **[IRIS Curățenie](https://github.com/ioanaghi/Iris-Curatenie-Web)** — A responsive business website built with Next.js, TypeScript, and Tailwind CSS. [View website](https://iris-eight-drab.vercel.app)
-- **[ElectriGo](https://github.com/ioanaghi/ElectriGo-App)** — A React Native and Expo prototype for EV drivers, with charging-location discovery and vehicle-management screens. Innovation Labs semifinalist project.
-- **[Timy](https://github.com/ioanaghi/Timy-App)** — A Flutter/FlutterFlow app designed to support autistic users. Third place at the Polihack competition.
-- **[Task Management](https://github.com/ioanaghi/TaskManagementApplication)** — A JavaFX desktop application for employees, nested tasks, and workload tracking, using MVC and file persistence.
-- **[Translators Design](https://github.com/ioanaghi/Translators_Design_Laboratories)** — Compiler coursework covering Flex, recursive-descent parsing, abstract syntax trees, stack-machine code generation, and introductory LLVM IR.
+My background includes computer science at the **Technical University of Cluj-Napoca** and working-student experience at **NTT DATA**, spanning Java, Spring Boot, containerized workloads, and CI/CD pipeline security.
 
-## Technical interests
+**Project highlight:** I co-founded **Safernav**, an AWS-deployed threat-classification system combining Isolation Forests and neural models. Our team won **1st place in the Cybersecurity Track at Polihack v17**.
 
-- Security tooling and machine learning for threat classification
-- Cloud infrastructure and dependable software delivery
-- Maintainable applications with clear architecture and usable interfaces
+## Engineering focus
 
-**Project stack:** Python · Java · JavaFX · TypeScript · React · Next.js · React Native · Flutter · C/C++
+- **Cloud & delivery:** AWS, Docker, Kubernetes, and CI/CD workflows.
+- **Security & data:** network-traffic analysis, threat classification, and reproducible ML experiments.
+- **Software foundations:** Java/Spring Boot, Python, PostgreSQL, modular design, and explicit system boundaries.
 
-## Contributions in motion
+## Selected public work
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ioanaghi/ioanaghi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ioanaghi/ioanaghi/output/github-snake.svg" />
-  <img alt="An animated snake moving through my GitHub contribution calendar" src="https://raw.githubusercontent.com/ioanaghi/ioanaghi/output/github-snake.svg" width="100%" />
-</picture>
+These projects show the implementation behind my interests, from security experiments to application delivery and systems fundamentals.
 
-<sub>My contribution calendar, reimagined as a snake animation. Refreshed daily.</sub>
+### Security & machine learning
 
-## Connect
+**[Network Traffic Anomaly Detection](https://github.com/ioanaghi/Anomaly-Detection)**<br />
+PCAP processing and classification experiments with scikit-learn, PyTorch, and TensorFlow. An experimental foundation for security tooling, with evaluation limitations documented openly.
 
-[LinkedIn](https://linkedin.com/in/ioanateodoraghinet) · [Email](mailto:ioanaghinet@yahoo.com)
+### Systems & software architecture
+
+**[Translators Design](https://github.com/ioanaghi/Translators_Design_Laboratories)**<br />
+Flex scanners, recursive-descent parsers, ASTs, stack-machine code generation, and introductory LLVM IR in C/C++.
+
+**[Task Management](https://github.com/ioanaghi/TaskManagementApplication)**<br />
+A JavaFX desktop application exploring MVC, nested task models, workload tracking, and local persistence.
+
+### Applications & delivery
+
+**[IRIS Curățenie](https://github.com/ioanaghi/Iris-Curatenie-Web)** · [Live website](https://iris-eight-drab.vercel.app)<br />
+A responsive business website built with Next.js, TypeScript, and Tailwind CSS, deployed on Vercel.
+
+**[ElectriGo](https://github.com/ioanaghi/ElectriGo-App)**<br />
+React Native/Expo EV-charging discovery prototype with maps and vehicle-management flows. **Innovation Labs semifinalist project.**
+
+**[Timy](https://github.com/ioanaghi/Timy-App)**<br />
+A Flutter/FlutterFlow app designed to support autistic users. **Third place at Polihack.**
+
+---
+
+I’m interested in the engineering that connects **application code, infrastructure, and security**: clear configuration, reproducible environments, controlled access, and observable systems.
