@@ -1,0 +1,60 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribution-snake.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'ioanaghi/ioanaghi'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate light and dark contribution animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ioanaghi
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#7c3aed
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa
+
+      - name: Check generated SVG files
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          for name in ('github-snake.svg', 'github-snake-dark.svg'):
+              path = Path('dist') / name
+              root = ET.parse(path).getroot()
+              assert root.tag == '{http://www.w3.org/2000/svg}svg', path
+              assert path.stat().st_size > 1000, path
+              print(f'Validated {name}')
+          PY
+
+      - name: Publish SVG files to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          enable_jekyll: true
+          commit_message: 'Update contribution snake'
