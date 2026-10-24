@@ -1,0 +1,447 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285" viewBox="0 0 1000 285" role="img" aria-labelledby="title description">
+<title id="title">ioanaghi — Cloud Network contribution calendar</title>
+<desc id="description">Public GitHub activity from 2025-10-19 to 2026-10-24. Seven rows show weekdays and columns show weeks. Real activity levels remain visible while decorative pulses travel from active days to a cloud. The animation does not add contributions.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}
+.wire{fill:none;stroke:#31576a;stroke-width:.8;opacity:.3}
+.packet{fill:none;stroke:#62d9ca;stroke-width:1.6;stroke-linecap:round;stroke-dasharray:5 95;opacity:0;animation:packet 12s linear infinite}
+.beat{fill:none;stroke:#9ef0dd;stroke-width:1;opacity:0;animation:beat 12s linear infinite}
+@keyframes packet{0%,4%{opacity:0;stroke-dashoffset:8}5%{opacity:.85}17%{opacity:.85;stroke-dashoffset:-100}18%,100%{opacity:0;stroke-dashoffset:-100}}
+@keyframes beat{0%,3%{opacity:0}5%{opacity:1}15%{opacity:.15}24%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.packet,.beat{animation:none;opacity:0}}
+</style>
+<rect width="1000" height="285" rx="14" fill="#0b1220"/>
+<text x="26" y="30" fill="#8da5be" font-size="12">ioanaghi / contributions</text>
+<text x="26" y="56" fill="#d5e4f1" font-size="18" font-weight="500">Cloud Network</text>
+<text x="48.00" y="115" fill="#8da5be" font-size="11">Oct</text>
+<text x="153.96" y="115" fill="#8da5be" font-size="11">Dec</text>
+<text x="224.60" y="115" fill="#8da5be" font-size="11">Jan</text>
+<text x="312.91" y="115" fill="#8da5be" font-size="11">Feb</text>
+<text x="383.55" y="115" fill="#8da5be" font-size="11">Mar</text>
+<text x="454.19" y="115" fill="#8da5be" font-size="11">Apr</text>
+<text x="524.83" y="115" fill="#8da5be" font-size="11">May</text>
+<text x="613.13" y="115" fill="#8da5be" font-size="11">Jun</text>
+<text x="683.77" y="115" fill="#8da5be" font-size="11">Jul</text>
+<text x="754.42" y="115" fill="#8da5be" font-size="11">Aug</text>
+<text x="842.72" y="115" fill="#8da5be" font-size="11">Sep</text>
+<text x="913.36" y="115" fill="#8da5be" font-size="11">Oct</text>
+<text x="14" y="156" fill="#8da5be" font-size="11">Mon</text>
+<text x="14" y="192" fill="#8da5be" font-size="11">Wed</text>
+<text x="14" y="228" fill="#8da5be" font-size="11">Fri</text>
+<rect data-date="2025-10-19" data-level="0" x="48.00" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-20" data-level="0" x="48.00" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-21" data-level="0" x="48.00" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-22" data-level="0" x="48.00" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-23" data-level="0" x="48.00" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-24" data-level="0" x="48.00" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-25" data-level="0" x="48.00" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-26" data-level="0" x="65.66" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-27" data-level="1" x="65.66" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-10-27: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-10-28" data-level="0" x="65.66" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-29" data-level="0" x="65.66" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-30" data-level="0" x="65.66" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-10-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-10-31" data-level="1" x="65.66" y="218" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-10-31: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-11-01" data-level="1" x="65.66" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-11-01: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-11-02" data-level="0" x="83.32" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-03" data-level="1" x="83.32" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-11-03: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-11-04" data-level="0" x="83.32" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-05" data-level="0" x="83.32" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-06" data-level="0" x="83.32" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-07" data-level="0" x="83.32" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-08" data-level="0" x="83.32" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-09" data-level="0" x="100.98" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-10" data-level="2" x="100.98" y="146" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2025-11-10: GitHub activity level 2/4</title></rect>
+<rect data-date="2025-11-11" data-level="0" x="100.98" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-12" data-level="0" x="100.98" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-13" data-level="0" x="100.98" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-14" data-level="0" x="100.98" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-15" data-level="0" x="100.98" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-16" data-level="0" x="118.64" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-17" data-level="1" x="118.64" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-11-17: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-11-18" data-level="0" x="118.64" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-19" data-level="1" x="118.64" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-11-19: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-11-20" data-level="0" x="118.64" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-21" data-level="0" x="118.64" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-22" data-level="0" x="118.64" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-23" data-level="0" x="136.30" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-24" data-level="4" x="136.30" y="146" width="13.50" height="13.50" rx="2" fill="#55d983"><title>2025-11-24: GitHub activity level 4/4</title></rect>
+<rect data-date="2025-11-25" data-level="1" x="136.30" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-11-25: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-11-26" data-level="2" x="136.30" y="182" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2025-11-26: GitHub activity level 2/4</title></rect>
+<rect data-date="2025-11-27" data-level="0" x="136.30" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-28" data-level="0" x="136.30" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-29" data-level="0" x="136.30" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-11-30" data-level="0" x="153.96" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-11-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-01" data-level="0" x="153.96" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-02" data-level="0" x="153.96" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-03" data-level="0" x="153.96" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-04" data-level="0" x="153.96" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-05" data-level="0" x="153.96" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-06" data-level="3" x="153.96" y="236" width="13.50" height="13.50" rx="2" fill="#29a965"><title>2025-12-06: GitHub activity level 3/4</title></rect>
+<rect data-date="2025-12-07" data-level="1" x="171.62" y="128" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-12-07: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-12-08" data-level="1" x="171.62" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-12-08: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-12-09" data-level="0" x="171.62" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-10" data-level="0" x="171.62" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-11" data-level="0" x="171.62" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-12" data-level="0" x="171.62" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-13" data-level="0" x="171.62" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-14" data-level="0" x="189.28" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-15" data-level="0" x="189.28" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-16" data-level="0" x="189.28" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-17" data-level="1" x="189.28" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2025-12-17: GitHub activity level 1/4</title></rect>
+<rect data-date="2025-12-18" data-level="0" x="189.28" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-19" data-level="0" x="189.28" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-20" data-level="0" x="189.28" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-21" data-level="0" x="206.94" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-22" data-level="0" x="206.94" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-23" data-level="0" x="206.94" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-24" data-level="0" x="206.94" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-25" data-level="0" x="206.94" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-26" data-level="0" x="206.94" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-27" data-level="0" x="206.94" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-28" data-level="0" x="224.60" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-29" data-level="3" x="224.60" y="146" width="13.50" height="13.50" rx="2" fill="#29a965"><title>2025-12-29: GitHub activity level 3/4</title></rect>
+<rect data-date="2025-12-30" data-level="0" x="224.60" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2025-12-31" data-level="0" x="224.60" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2025-12-31: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-01" data-level="0" x="224.60" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-02" data-level="0" x="224.60" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-03" data-level="0" x="224.60" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-04" data-level="0" x="242.26" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-05" data-level="0" x="242.26" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-06" data-level="0" x="242.26" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-07" data-level="0" x="242.26" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-08" data-level="0" x="242.26" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-09" data-level="0" x="242.26" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-10" data-level="0" x="242.26" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-11" data-level="0" x="259.92" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-12" data-level="0" x="259.92" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-13" data-level="0" x="259.92" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-14" data-level="0" x="259.92" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-15" data-level="0" x="259.92" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-16" data-level="0" x="259.92" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-17" data-level="0" x="259.92" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-18" data-level="0" x="277.58" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-19" data-level="0" x="277.58" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-20" data-level="0" x="277.58" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-21" data-level="0" x="277.58" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-22" data-level="0" x="277.58" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-23" data-level="0" x="277.58" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-24" data-level="0" x="277.58" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-25" data-level="0" x="295.25" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-26" data-level="0" x="295.25" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-27" data-level="0" x="295.25" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-28" data-level="1" x="295.25" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-01-28: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-01-29" data-level="0" x="295.25" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-30" data-level="0" x="295.25" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-01-31" data-level="0" x="295.25" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-01-31: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-01" data-level="0" x="312.91" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-02" data-level="0" x="312.91" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-03" data-level="0" x="312.91" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-04" data-level="0" x="312.91" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-05" data-level="0" x="312.91" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-06" data-level="0" x="312.91" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-07" data-level="0" x="312.91" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-08" data-level="0" x="330.57" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-09" data-level="0" x="330.57" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-10" data-level="0" x="330.57" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-11" data-level="0" x="330.57" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-12" data-level="0" x="330.57" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-13" data-level="0" x="330.57" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-14" data-level="0" x="330.57" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-15" data-level="0" x="348.23" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-16" data-level="0" x="348.23" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-17" data-level="0" x="348.23" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-18" data-level="0" x="348.23" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-19" data-level="0" x="348.23" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-20" data-level="0" x="348.23" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-21" data-level="0" x="348.23" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-22" data-level="0" x="365.89" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-23" data-level="0" x="365.89" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-24" data-level="0" x="365.89" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-25" data-level="0" x="365.89" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-26" data-level="0" x="365.89" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-27" data-level="0" x="365.89" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-02-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-02-28" data-level="1" x="365.89" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-02-28: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-01" data-level="0" x="383.55" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-02" data-level="1" x="383.55" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-02: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-03" data-level="1" x="383.55" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-03: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-04" data-level="0" x="383.55" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-05" data-level="0" x="383.55" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-06" data-level="1" x="383.55" y="218" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-06: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-07" data-level="0" x="383.55" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-08" data-level="0" x="401.21" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-09" data-level="0" x="401.21" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-10" data-level="1" x="401.21" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-10: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-11" data-level="1" x="401.21" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-11: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-12" data-level="0" x="401.21" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-13" data-level="0" x="401.21" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-14" data-level="0" x="401.21" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-15" data-level="0" x="418.87" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-16" data-level="1" x="418.87" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-16: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-17" data-level="0" x="418.87" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-18" data-level="0" x="418.87" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-19" data-level="0" x="418.87" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-20" data-level="0" x="418.87" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-21" data-level="0" x="418.87" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-22" data-level="1" x="436.53" y="128" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-22: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-23" data-level="0" x="436.53" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-24" data-level="0" x="436.53" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-25" data-level="1" x="436.53" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-03-25: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-03-26" data-level="0" x="436.53" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-27" data-level="0" x="436.53" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-28" data-level="0" x="436.53" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-29" data-level="0" x="454.19" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-30" data-level="0" x="454.19" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-03-31" data-level="0" x="454.19" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-03-31: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-01" data-level="1" x="454.19" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-01: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-02" data-level="0" x="454.19" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-03" data-level="0" x="454.19" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-04" data-level="0" x="454.19" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-05" data-level="0" x="471.85" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-06" data-level="1" x="471.85" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-06: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-07" data-level="1" x="471.85" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-07: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-08" data-level="0" x="471.85" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-09" data-level="0" x="471.85" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-10" data-level="0" x="471.85" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-11" data-level="1" x="471.85" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-11: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-12" data-level="1" x="489.51" y="128" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-12: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-13" data-level="0" x="489.51" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-14" data-level="0" x="489.51" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-15" data-level="1" x="489.51" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-15: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-16" data-level="2" x="489.51" y="200" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2026-04-16: GitHub activity level 2/4</title></rect>
+<rect data-date="2026-04-17" data-level="0" x="489.51" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-18" data-level="1" x="489.51" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-18: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-19" data-level="1" x="507.17" y="128" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-19: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-20" data-level="0" x="507.17" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-21" data-level="0" x="507.17" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-22" data-level="0" x="507.17" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-23" data-level="0" x="507.17" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-24" data-level="0" x="507.17" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-25" data-level="0" x="507.17" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-26" data-level="0" x="524.83" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-04-27" data-level="1" x="524.83" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-27: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-28" data-level="1" x="524.83" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-28: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-29" data-level="1" x="524.83" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-04-29: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-04-30" data-level="0" x="524.83" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-04-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-01" data-level="0" x="524.83" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-02" data-level="0" x="524.83" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-03" data-level="0" x="542.49" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-04" data-level="0" x="542.49" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-05" data-level="1" x="542.49" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-05: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-06" data-level="0" x="542.49" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-07" data-level="0" x="542.49" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-08" data-level="0" x="542.49" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-09" data-level="0" x="542.49" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-10" data-level="0" x="560.15" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-11" data-level="2" x="560.15" y="146" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2026-05-11: GitHub activity level 2/4</title></rect>
+<rect data-date="2026-05-12" data-level="0" x="560.15" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-13" data-level="1" x="560.15" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-13: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-14" data-level="1" x="560.15" y="200" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-14: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-15" data-level="1" x="560.15" y="218" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-15: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-16" data-level="0" x="560.15" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-17" data-level="0" x="577.81" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-18" data-level="1" x="577.81" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-18: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-19" data-level="0" x="577.81" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-20" data-level="1" x="577.81" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-20: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-21" data-level="0" x="577.81" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-22" data-level="0" x="577.81" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-23" data-level="0" x="577.81" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-24" data-level="0" x="595.47" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-25" data-level="2" x="595.47" y="146" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2026-05-25: GitHub activity level 2/4</title></rect>
+<rect data-date="2026-05-26" data-level="1" x="595.47" y="164" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-26: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-27" data-level="1" x="595.47" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-05-27: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-05-28" data-level="0" x="595.47" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-29" data-level="0" x="595.47" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-30" data-level="0" x="595.47" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-05-31" data-level="0" x="613.13" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-05-31: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-01" data-level="0" x="613.13" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-02" data-level="0" x="613.13" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-03" data-level="0" x="613.13" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-04" data-level="0" x="613.13" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-05" data-level="1" x="613.13" y="218" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-06-05: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-06-06" data-level="0" x="613.13" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-07" data-level="0" x="630.79" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-08" data-level="1" x="630.79" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-06-08: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-06-09" data-level="0" x="630.79" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-10" data-level="1" x="630.79" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-06-10: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-06-11" data-level="1" x="630.79" y="200" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-06-11: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-06-12" data-level="0" x="630.79" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-13" data-level="0" x="630.79" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-14" data-level="0" x="648.45" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-15" data-level="0" x="648.45" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-16" data-level="0" x="648.45" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-17" data-level="2" x="648.45" y="182" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2026-06-17: GitHub activity level 2/4</title></rect>
+<rect data-date="2026-06-18" data-level="1" x="648.45" y="200" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-06-18: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-06-19" data-level="0" x="648.45" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-20" data-level="0" x="648.45" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-21" data-level="0" x="666.11" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-22" data-level="1" x="666.11" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-06-22: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-06-23" data-level="0" x="666.11" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-24" data-level="0" x="666.11" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-25" data-level="0" x="666.11" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-26" data-level="0" x="666.11" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-27" data-level="0" x="666.11" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-28" data-level="0" x="683.77" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-29" data-level="0" x="683.77" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-06-30" data-level="0" x="683.77" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-06-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-01" data-level="0" x="683.77" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-02" data-level="0" x="683.77" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-03" data-level="0" x="683.77" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-04" data-level="0" x="683.77" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-05" data-level="0" x="701.43" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-06" data-level="0" x="701.43" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-07" data-level="0" x="701.43" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-08" data-level="1" x="701.43" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-07-08: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-07-09" data-level="0" x="701.43" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-10" data-level="0" x="701.43" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-11" data-level="0" x="701.43" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-12" data-level="0" x="719.09" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-13" data-level="0" x="719.09" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-14" data-level="0" x="719.09" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-15" data-level="0" x="719.09" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-16" data-level="0" x="719.09" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-17" data-level="0" x="719.09" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-18" data-level="0" x="719.09" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-19" data-level="0" x="736.75" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-20" data-level="0" x="736.75" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-21" data-level="0" x="736.75" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-22" data-level="0" x="736.75" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-23" data-level="0" x="736.75" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-24" data-level="0" x="736.75" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-25" data-level="0" x="736.75" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-26" data-level="0" x="754.42" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-27" data-level="0" x="754.42" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-28" data-level="0" x="754.42" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-29" data-level="0" x="754.42" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-30" data-level="0" x="754.42" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-07-31" data-level="0" x="754.42" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-07-31: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-01" data-level="1" x="754.42" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-08-01: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-08-02" data-level="0" x="772.08" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-03" data-level="0" x="772.08" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-04" data-level="0" x="772.08" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-05" data-level="0" x="772.08" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-06" data-level="0" x="772.08" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-07" data-level="0" x="772.08" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-08" data-level="0" x="772.08" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-09" data-level="0" x="789.74" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-10" data-level="0" x="789.74" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-11" data-level="0" x="789.74" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-12" data-level="0" x="789.74" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-13" data-level="0" x="789.74" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-14" data-level="0" x="789.74" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-15" data-level="0" x="789.74" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-16" data-level="0" x="807.40" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-17" data-level="0" x="807.40" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-18" data-level="0" x="807.40" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-19" data-level="0" x="807.40" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-20" data-level="0" x="807.40" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-21" data-level="0" x="807.40" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-22" data-level="0" x="807.40" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-23" data-level="0" x="825.06" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-24" data-level="0" x="825.06" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-25" data-level="0" x="825.06" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-26" data-level="1" x="825.06" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-08-26: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-08-27" data-level="0" x="825.06" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-28" data-level="0" x="825.06" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-29" data-level="0" x="825.06" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-30" data-level="0" x="842.72" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-08-31" data-level="0" x="842.72" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-08-31: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-01" data-level="0" x="842.72" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-02" data-level="0" x="842.72" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-03" data-level="0" x="842.72" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-04" data-level="0" x="842.72" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-05" data-level="0" x="842.72" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-06" data-level="0" x="860.38" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-06: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-07" data-level="0" x="860.38" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-08" data-level="0" x="860.38" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-09" data-level="0" x="860.38" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-10" data-level="0" x="860.38" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-11" data-level="0" x="860.38" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-11: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-12" data-level="0" x="860.38" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-13" data-level="0" x="878.04" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-14" data-level="0" x="878.04" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-15" data-level="0" x="878.04" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-16" data-level="0" x="878.04" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-17" data-level="0" x="878.04" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-18" data-level="0" x="878.04" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-19" data-level="0" x="878.04" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-20" data-level="0" x="895.70" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-21" data-level="0" x="895.70" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-21: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-22" data-level="0" x="895.70" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-22: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-23" data-level="0" x="895.70" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-23: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-24" data-level="0" x="895.70" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-24: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-25" data-level="0" x="895.70" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-26" data-level="0" x="895.70" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-26: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-27" data-level="0" x="913.36" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-27: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-28" data-level="0" x="913.36" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-29" data-level="0" x="913.36" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-29: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-09-30" data-level="0" x="913.36" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-09-30: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-01" data-level="0" x="913.36" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-01: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-02" data-level="0" x="913.36" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-02: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-03" data-level="0" x="913.36" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-03: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-04" data-level="0" x="931.02" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-04: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-05" data-level="0" x="931.02" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-05: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-06" data-level="2" x="931.02" y="164" width="13.50" height="13.50" rx="2" fill="#18754e"><title>2026-10-06: GitHub activity level 2/4</title></rect>
+<rect data-date="2026-10-07" data-level="0" x="931.02" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-07: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-08" data-level="0" x="931.02" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-08: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-09" data-level="0" x="931.02" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-09: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-10" data-level="0" x="931.02" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-10: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-11" data-level="1" x="948.68" y="128" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-11: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-10-12" data-level="0" x="948.68" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-12: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-13" data-level="0" x="948.68" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-13: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-14" data-level="0" x="948.68" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-14: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-15" data-level="0" x="948.68" y="200" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-15: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-16" data-level="0" x="948.68" y="218" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-16: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-17" data-level="0" x="948.68" y="236" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-17: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-18" data-level="0" x="966.34" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-18: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-19" data-level="0" x="966.34" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-19: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-20" data-level="0" x="966.34" y="164" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-20: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-21" data-level="1" x="966.34" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-21: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-10-22" data-level="1" x="966.34" y="200" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-22: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-10-23" data-level="4" x="966.34" y="218" width="13.50" height="13.50" rx="2" fill="#55d983"><title>2026-10-23: GitHub activity level 4/4</title></rect>
+<rect data-date="2026-10-24" data-level="1" x="966.34" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-24: GitHub activity level 1/4</title></rect>
+<path class="wire" d="M72.41,152.75 C72.41,86 500,86 500,66"/>
+<path class="packet" d="M72.41,152.75 C72.41,86 500,86 500,66" pathLength="100" style="animation-delay:0.00s"/>
+<rect class="beat" x="64.96" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:0.00s"/>
+<path class="wire" d="M125.39,188.75 C125.39,86 500,86 500,66"/>
+<path class="packet" d="M125.39,188.75 C125.39,86 500,86 500,66" pathLength="100" style="animation-delay:-0.94s"/>
+<rect class="beat" x="117.94" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-0.94s"/>
+<path class="wire" d="M178.37,134.75 C178.37,86 500,86 500,66"/>
+<path class="packet" d="M178.37,134.75 C178.37,86 500,86 500,66" pathLength="100" style="animation-delay:-1.88s"/>
+<rect class="beat" x="170.92" y="127.30" width="14.90" height="14.90" rx="2" style="animation-delay:-1.88s"/>
+<path class="wire" d="M390.30,152.75 C390.30,86 500,86 500,66"/>
+<path class="packet" d="M390.30,152.75 C390.30,86 500,86 500,66" pathLength="100" style="animation-delay:-2.82s"/>
+<rect class="beat" x="382.85" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:-2.82s"/>
+<path class="wire" d="M443.28,134.75 C443.28,86 500,86 500,66"/>
+<path class="packet" d="M443.28,134.75 C443.28,86 500,86 500,66" pathLength="100" style="animation-delay:-3.76s"/>
+<rect class="beat" x="435.83" y="127.30" width="14.90" height="14.90" rx="2" style="animation-delay:-3.76s"/>
+<path class="wire" d="M478.60,242.75 C478.60,86 500,86 500,66"/>
+<path class="packet" d="M478.60,242.75 C478.60,86 500,86 500,66" pathLength="100" style="animation-delay:-4.70s"/>
+<rect class="beat" x="471.15" y="235.30" width="14.90" height="14.90" rx="2" style="animation-delay:-4.70s"/>
+<path class="wire" d="M531.58,152.75 C531.58,86 500,86 500,66"/>
+<path class="packet" d="M531.58,152.75 C531.58,86 500,86 500,66" pathLength="100" style="animation-delay:-5.64s"/>
+<rect class="beat" x="524.13" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:-5.64s"/>
+<path class="wire" d="M566.90,188.75 C566.90,86 500,86 500,66"/>
+<path class="packet" d="M566.90,188.75 C566.90,86 500,86 500,66" pathLength="100" style="animation-delay:-6.58s"/>
+<rect class="beat" x="559.45" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-6.58s"/>
+<path class="wire" d="M602.22,170.75 C602.22,86 500,86 500,66"/>
+<path class="packet" d="M602.22,170.75 C602.22,86 500,86 500,66" pathLength="100" style="animation-delay:-7.52s"/>
+<rect class="beat" x="594.77" y="163.30" width="14.90" height="14.90" rx="2" style="animation-delay:-7.52s"/>
+<path class="wire" d="M655.20,188.75 C655.20,86 500,86 500,66"/>
+<path class="packet" d="M655.20,188.75 C655.20,86 500,86 500,66" pathLength="100" style="animation-delay:-8.46s"/>
+<rect class="beat" x="647.75" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-8.46s"/>
+<path class="wire" d="M831.81,188.75 C831.81,86 500,86 500,66"/>
+<path class="packet" d="M831.81,188.75 C831.81,86 500,86 500,66" pathLength="100" style="animation-delay:-9.40s"/>
+<rect class="beat" x="824.36" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-9.40s"/>
+<path class="wire" d="M973.09,242.75 C973.09,86 500,86 500,66"/>
+<path class="packet" d="M973.09,242.75 C973.09,86 500,86 500,66" pathLength="100" style="animation-delay:-10.34s"/>
+<rect class="beat" x="965.64" y="235.30" width="14.90" height="14.90" rx="2" style="animation-delay:-10.34s"/>
+<path d="M481 68h39c12 0 19-8 19-17s-8-17-18-17h-1c-5-12-15-18-26-18-15 0-27 10-29 24-9 0-16 6-16 14s6 14 15 14Z" fill="#0b1220" stroke="#62d9ca" stroke-width="2" stroke-linejoin="round"/>
+<path d="M500 46v17m-6-6 6 6 6-6" fill="none" stroke="#9ef0dd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="26" y="265" fill="#8da5be" font-size="11">Public activity · 2025-10-19 — 2026-10-24</text>
+<text x="804" y="265" fill="#8da5be" font-size="11">Less</text>
+<rect x="839" y="255" width="11" height="11" rx="2" fill="#172333"/>
+<rect x="854" y="255" width="11" height="11" rx="2" fill="#164f3d"/>
+<rect x="869" y="255" width="11" height="11" rx="2" fill="#18754e"/>
+<rect x="884" y="255" width="11" height="11" rx="2" fill="#29a965"/>
+<rect x="899" y="255" width="11" height="11" rx="2" fill="#55d983"/>
+<text x="922" y="265" fill="#8da5be" font-size="11">More</text></svg>
