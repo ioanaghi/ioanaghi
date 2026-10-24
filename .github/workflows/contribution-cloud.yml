@@ -1,0 +1,51 @@
+name: Update Cloud Network
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/contribution_cloud.py'
+      - '.github/workflows/contribution-cloud.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-cloud
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'ioanaghi/ioanaghi'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+      - name: Generate real contribution calendar
+        run: python3 scripts/contribution_cloud.py --username ioanaghi --output dist/cloud-network.svg
+      - name: Validate generated SVG
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          root = ET.parse('dist/cloud-network.svg').getroot()
+          assert root.tag == '{http://www.w3.org/2000/svg}svg'
+          cells = [node for node in root.iter() if 'data-date' in node.attrib]
+          assert 350 <= len(cells) <= 371
+          assert len({cell.attrib['data-date'] for cell in cells}) == len(cells)
+          print(f'Validated {len(cells)} real dated cells')
+          PY
+      - name: Publish animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          keep_files: true
+          enable_jekyll: true
+          commit_message: 'Refresh Cloud Network contribution calendar'

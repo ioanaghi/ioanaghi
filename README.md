@@ -20,6 +20,12 @@ My background includes computer science at the **Technical University of Cluj-Na
 - **Security & data:** network-traffic analysis, threat classification, and reproducible ML experiments.
 - **Software foundations:** Java/Spring Boot, Python, PostgreSQL, modular design, and explicit system boundaries.
 
+## Contributions · Cloud Network
+
+![Real GitHub contributions on the classic calendar grid, with turquoise pulses flowing toward a cloud](https://raw.githubusercontent.com/ioanaghi/ioanaghi/output/cloud-network.svg)
+
+<sub>Public contribution activity · refreshed daily · animation respects reduced-motion preferences.</sub>
+
 ## Selected public work
 
 These projects show the implementation behind my interests, from security experiments to application delivery and systems fundamentals.
