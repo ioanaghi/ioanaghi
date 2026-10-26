@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285" viewBox="0 0 1000 285" role="img" aria-labelledby="title description">
 <title id="title">ioanaghi — Cloud Network contribution calendar</title>
-<desc id="description">Public GitHub activity from 2025-10-26 to 2026-10-25. Seven rows show weekdays and columns show weeks. Real activity levels remain visible while decorative pulses travel from active days to a cloud. The animation does not add contributions.</desc>
+<desc id="description">Public GitHub activity from 2025-10-26 to 2026-10-26. Seven rows show weekdays and columns show weeks. Real activity levels remain visible while decorative pulses travel from active days to a cloud. The animation does not add contributions.</desc>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}
 .wire{fill:none;stroke:#31576a;stroke-width:.8;opacity:.3}
@@ -393,6 +393,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}
 <rect data-date="2026-10-23" data-level="4" x="948.68" y="218" width="13.50" height="13.50" rx="2" fill="#55d983"><title>2026-10-23: GitHub activity level 4/4</title></rect>
 <rect data-date="2026-10-24" data-level="1" x="948.68" y="236" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-24: GitHub activity level 1/4</title></rect>
 <rect data-date="2026-10-25" data-level="0" x="966.34" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-25: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-26" data-level="0" x="966.34" y="146" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-26: GitHub activity level 0/4</title></rect>
 <path class="wire" d="M54.75,152.75 C54.75,86 500,86 500,66"/>
 <path class="packet" d="M54.75,152.75 C54.75,86 500,86 500,66" pathLength="100" style="animation-delay:0.00s"/>
 <rect class="beat" x="47.30" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:0.00s"/>
@@ -431,7 +432,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}
 <rect class="beat" x="947.98" y="235.30" width="14.90" height="14.90" rx="2" style="animation-delay:-10.34s"/>
 <path d="M481 68h39c12 0 19-8 19-17s-8-17-18-17h-1c-5-12-15-18-26-18-15 0-27 10-29 24-9 0-16 6-16 14s6 14 15 14Z" fill="#0b1220" stroke="#62d9ca" stroke-width="2" stroke-linejoin="round"/>
 <path d="M500 46v17m-6-6 6 6 6-6" fill="none" stroke="#9ef0dd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="26" y="265" fill="#8da5be" font-size="11">Public activity · 2025-10-26 — 2026-10-25</text>
+<text x="26" y="265" fill="#8da5be" font-size="11">Public activity · 2025-10-26 — 2026-10-26</text>
 <text x="804" y="265" fill="#8da5be" font-size="11">Less</text>
 <rect x="839" y="255" width="11" height="11" rx="2" fill="#172333"/>
 <rect x="854" y="255" width="11" height="11" rx="2" fill="#164f3d"/>
