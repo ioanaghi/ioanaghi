@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285" viewBox="0 0 1000 285" role="img" aria-labelledby="title description">
 <title id="title">ioanaghi — Cloud Network contribution calendar</title>
-<desc id="description">Public GitHub activity from 2025-10-26 to 2026-10-28. Seven rows show weekdays and columns show weeks. Real activity levels remain visible while decorative pulses travel from active days to a cloud. The animation does not add contributions.</desc>
+<desc id="description">Public GitHub activity from 2025-10-26 to 2026-10-29. Seven rows show weekdays and columns show weeks. Real activity levels remain visible while decorative pulses travel from active days to a cloud. The animation does not add contributions.</desc>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}
 .wire{fill:none;stroke:#31576a;stroke-width:.8;opacity:.3}
@@ -395,46 +395,47 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif}
 <rect data-date="2026-10-25" data-level="0" x="966.34" y="128" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-25: GitHub activity level 0/4</title></rect>
 <rect data-date="2026-10-26" data-level="1" x="966.34" y="146" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-26: GitHub activity level 1/4</title></rect>
 <rect data-date="2026-10-27" data-level="4" x="966.34" y="164" width="13.50" height="13.50" rx="2" fill="#55d983"><title>2026-10-27: GitHub activity level 4/4</title></rect>
-<rect data-date="2026-10-28" data-level="0" x="966.34" y="182" width="13.50" height="13.50" rx="2" fill="#172333"><title>2026-10-28: GitHub activity level 0/4</title></rect>
+<rect data-date="2026-10-28" data-level="1" x="966.34" y="182" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-28: GitHub activity level 1/4</title></rect>
+<rect data-date="2026-10-29" data-level="1" x="966.34" y="200" width="13.50" height="13.50" rx="2" fill="#164f3d"><title>2026-10-29: GitHub activity level 1/4</title></rect>
 <path class="wire" d="M54.75,152.75 C54.75,86 500,86 500,66"/>
 <path class="packet" d="M54.75,152.75 C54.75,86 500,86 500,66" pathLength="100" style="animation-delay:0.00s"/>
 <rect class="beat" x="47.30" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:0.00s"/>
 <path class="wire" d="M107.73,188.75 C107.73,86 500,86 500,66"/>
 <path class="packet" d="M107.73,188.75 C107.73,86 500,86 500,66" pathLength="100" style="animation-delay:-0.94s"/>
 <rect class="beat" x="100.28" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-0.94s"/>
-<path class="wire" d="M160.71,134.75 C160.71,86 500,86 500,66"/>
-<path class="packet" d="M160.71,134.75 C160.71,86 500,86 500,66" pathLength="100" style="animation-delay:-1.88s"/>
-<rect class="beat" x="153.26" y="127.30" width="14.90" height="14.90" rx="2" style="animation-delay:-1.88s"/>
-<path class="wire" d="M372.64,152.75 C372.64,86 500,86 500,66"/>
-<path class="packet" d="M372.64,152.75 C372.64,86 500,86 500,66" pathLength="100" style="animation-delay:-2.82s"/>
-<rect class="beat" x="365.19" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:-2.82s"/>
-<path class="wire" d="M425.62,134.75 C425.62,86 500,86 500,66"/>
-<path class="packet" d="M425.62,134.75 C425.62,86 500,86 500,66" pathLength="100" style="animation-delay:-3.76s"/>
-<rect class="beat" x="418.17" y="127.30" width="14.90" height="14.90" rx="2" style="animation-delay:-3.76s"/>
-<path class="wire" d="M478.60,134.75 C478.60,86 500,86 500,66"/>
-<path class="packet" d="M478.60,134.75 C478.60,86 500,86 500,66" pathLength="100" style="animation-delay:-4.70s"/>
-<rect class="beat" x="471.15" y="127.30" width="14.90" height="14.90" rx="2" style="animation-delay:-4.70s"/>
-<path class="wire" d="M513.92,152.75 C513.92,86 500,86 500,66"/>
-<path class="packet" d="M513.92,152.75 C513.92,86 500,86 500,66" pathLength="100" style="animation-delay:-5.64s"/>
-<rect class="beat" x="506.47" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:-5.64s"/>
-<path class="wire" d="M549.24,206.75 C549.24,86 500,86 500,66"/>
-<path class="packet" d="M549.24,206.75 C549.24,86 500,86 500,66" pathLength="100" style="animation-delay:-6.58s"/>
-<rect class="beat" x="541.79" y="199.30" width="14.90" height="14.90" rx="2" style="animation-delay:-6.58s"/>
-<path class="wire" d="M584.56,188.75 C584.56,86 500,86 500,66"/>
-<path class="packet" d="M584.56,188.75 C584.56,86 500,86 500,66" pathLength="100" style="animation-delay:-7.52s"/>
-<rect class="beat" x="577.11" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-7.52s"/>
-<path class="wire" d="M637.54,206.75 C637.54,86 500,86 500,66"/>
-<path class="packet" d="M637.54,206.75 C637.54,86 500,86 500,66" pathLength="100" style="animation-delay:-8.46s"/>
-<rect class="beat" x="630.09" y="199.30" width="14.90" height="14.90" rx="2" style="animation-delay:-8.46s"/>
-<path class="wire" d="M937.77,134.75 C937.77,86 500,86 500,66"/>
-<path class="packet" d="M937.77,134.75 C937.77,86 500,86 500,66" pathLength="100" style="animation-delay:-9.40s"/>
-<rect class="beat" x="930.32" y="127.30" width="14.90" height="14.90" rx="2" style="animation-delay:-9.40s"/>
-<path class="wire" d="M973.09,170.75 C973.09,86 500,86 500,66"/>
-<path class="packet" d="M973.09,170.75 C973.09,86 500,86 500,66" pathLength="100" style="animation-delay:-10.34s"/>
-<rect class="beat" x="965.64" y="163.30" width="14.90" height="14.90" rx="2" style="animation-delay:-10.34s"/>
+<path class="wire" d="M160.71,152.75 C160.71,86 500,86 500,66"/>
+<path class="packet" d="M160.71,152.75 C160.71,86 500,86 500,66" pathLength="100" style="animation-delay:-1.88s"/>
+<rect class="beat" x="153.26" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:-1.88s"/>
+<path class="wire" d="M372.64,170.75 C372.64,86 500,86 500,66"/>
+<path class="packet" d="M372.64,170.75 C372.64,86 500,86 500,66" pathLength="100" style="animation-delay:-2.82s"/>
+<rect class="beat" x="365.19" y="163.30" width="14.90" height="14.90" rx="2" style="animation-delay:-2.82s"/>
+<path class="wire" d="M425.62,188.75 C425.62,86 500,86 500,66"/>
+<path class="packet" d="M425.62,188.75 C425.62,86 500,86 500,66" pathLength="100" style="animation-delay:-3.76s"/>
+<rect class="beat" x="418.17" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-3.76s"/>
+<path class="wire" d="M478.60,188.75 C478.60,86 500,86 500,66"/>
+<path class="packet" d="M478.60,188.75 C478.60,86 500,86 500,66" pathLength="100" style="animation-delay:-4.70s"/>
+<rect class="beat" x="471.15" y="181.30" width="14.90" height="14.90" rx="2" style="animation-delay:-4.70s"/>
+<path class="wire" d="M513.92,170.75 C513.92,86 500,86 500,66"/>
+<path class="packet" d="M513.92,170.75 C513.92,86 500,86 500,66" pathLength="100" style="animation-delay:-5.64s"/>
+<rect class="beat" x="506.47" y="163.30" width="14.90" height="14.90" rx="2" style="animation-delay:-5.64s"/>
+<path class="wire" d="M549.24,224.75 C549.24,86 500,86 500,66"/>
+<path class="packet" d="M549.24,224.75 C549.24,86 500,86 500,66" pathLength="100" style="animation-delay:-6.58s"/>
+<rect class="beat" x="541.79" y="217.30" width="14.90" height="14.90" rx="2" style="animation-delay:-6.58s"/>
+<path class="wire" d="M602.22,224.75 C602.22,86 500,86 500,66"/>
+<path class="packet" d="M602.22,224.75 C602.22,86 500,86 500,66" pathLength="100" style="animation-delay:-7.52s"/>
+<rect class="beat" x="594.77" y="217.30" width="14.90" height="14.90" rx="2" style="animation-delay:-7.52s"/>
+<path class="wire" d="M655.20,152.75 C655.20,86 500,86 500,66"/>
+<path class="packet" d="M655.20,152.75 C655.20,86 500,86 500,66" pathLength="100" style="animation-delay:-8.46s"/>
+<rect class="beat" x="647.75" y="145.30" width="14.90" height="14.90" rx="2" style="animation-delay:-8.46s"/>
+<path class="wire" d="M955.43,206.75 C955.43,86 500,86 500,66"/>
+<path class="packet" d="M955.43,206.75 C955.43,86 500,86 500,66" pathLength="100" style="animation-delay:-9.40s"/>
+<rect class="beat" x="947.98" y="199.30" width="14.90" height="14.90" rx="2" style="animation-delay:-9.40s"/>
+<path class="wire" d="M973.09,206.75 C973.09,86 500,86 500,66"/>
+<path class="packet" d="M973.09,206.75 C973.09,86 500,86 500,66" pathLength="100" style="animation-delay:-10.34s"/>
+<rect class="beat" x="965.64" y="199.30" width="14.90" height="14.90" rx="2" style="animation-delay:-10.34s"/>
 <path d="M481 68h39c12 0 19-8 19-17s-8-17-18-17h-1c-5-12-15-18-26-18-15 0-27 10-29 24-9 0-16 6-16 14s6 14 15 14Z" fill="#0b1220" stroke="#62d9ca" stroke-width="2" stroke-linejoin="round"/>
 <path d="M500 46v17m-6-6 6 6 6-6" fill="none" stroke="#9ef0dd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="26" y="265" fill="#8da5be" font-size="11">Public activity · 2025-10-26 — 2026-10-28</text>
+<text x="26" y="265" fill="#8da5be" font-size="11">Public activity · 2025-10-26 — 2026-10-29</text>
 <text x="804" y="265" fill="#8da5be" font-size="11">Less</text>
 <rect x="839" y="255" width="11" height="11" rx="2" fill="#172333"/>
 <rect x="854" y="255" width="11" height="11" rx="2" fill="#164f3d"/>
